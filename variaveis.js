@@ -32,6 +32,20 @@ let lista = ["Joaquim", "carlos", "Ana"]
 // Conversão de tipos 
 
 // String para Number
+
 let stringParaNumero = Number("10")
+
 let stringParaNumero2 = parseInt("10.5")
+
 let stringParaNumero3 = parseFloat("10.5")
+
+// Number para String
+let numerParaString = String(100)
+let numeroParaString2 = (100).toString()
+
+// boolean para Numero
+let booleanParaNumero = Number(true)//1
+let booleanParaNumero2 = Number(false)//0
+
+//
+
