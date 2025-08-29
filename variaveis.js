@@ -47,5 +47,4 @@ let numeroParaString2 = (100).toString()
 let booleanParaNumero = Number(true)//1
 let booleanParaNumero2 = Number(false)//0
 
-//
 
